@@ -1,0 +1,302 @@
+{
+  "noSubtitlesMessage": {
+    "message": "現在のビデオには字幕がありません"
+  },
+  "liveVideoNotSupported": {
+    "message": "ライブビデオは現在、吹き替えに対応していません"
+  },
+  "videoIdFetchFailure": {
+    "message": "ビデオIDの取得に失敗しました"
+  },
+  "postLoginTranslationSettings": {
+    "message": "ログイン成功。プラグインのICONをクリックして、翻訳言語と声のリストを選択できます。"
+  },
+  "translationRequestFailure": {
+    "message": "字幕翻訳に失敗しました。後ほど再試行してください。"
+  },
+  "subtitleNotInitialized": {
+    "message": "字幕はまだ初期化されていません。"
+  },
+  "musicVideoTranslationUnavailable": {
+    "message": "現在のビデオは純粋な音楽ビデオであり、翻訳や吹き替えはできません"
+  },
+  "notification": {
+    "message": "YouTubeダビング会員リマインダー"
+  },
+  "subtitleQualityImprovement": {
+    "message": "字幕の品質向上のために作業中です。最適化が完了次第、メールで通知します。受信後、ビデオをリフレッシュして、より良い視聴体験をお楽しみください"
+  },
+  "membershipPromotion": {
+    "message": "会員にアップグレードして、卓越した視聴体験をすぐに解放しましょう！"
+  },
+  "videoEnhancement": {
+    "message": "このビデオは、視聴体験を向上させるためにプラグインによって独占的に最適化された字幕を特別に含んでいます。プラグインのアイコンをクリックして会員にアップグレードするだけで、より良い視聴体験を得ることができます！"
+  },
+  "videoOptimization": {
+    "message": "現在のビデオは最適化作業中です。最適化が完了した後、視聴を希望する場合は、プラグインのアイコンをクリックして会員にアップグレードするだけで、新しい視聴体験を楽しむことができます。"
+  },
+  "membershipUpgradeLink": {
+    "message": "<a href='https://yd.transduck.com/admin/settings/plans' target='_blank' style='color:#FFFFFF'>会員アップグレードをクリック</a>"
+  },
+  "source_languages": {
+    "message": "ソース言語:"
+  },
+  "target_languages": {
+    "message": "対象言語:"
+  },
+  "sex": {
+    "message": "性別:"
+  },
+  "voices": {
+    "message": "声:"
+  },
+  "originalVolume": {
+    "message": "原音量:"
+  },
+  "targetVolume": {
+    "message": "訳音量:"
+  },
+  "pageSwitchPause": {
+    "message": "タブ切替で一時停止："
+  },
+  "man": {
+    "message": "男性"
+  },
+  "woman": {
+    "message": "女性"
+  },
+  "inviteForPoints": {
+    "message": "招待してポイントを獲得"
+  },
+  "pointsForMembership": {
+    "message": "ポイントでメンバーシップ料を補填可能です。詳細は青リンクから。"
+  },
+  "expirationDate": {
+    "message": "有効期限:"
+  },
+  "pay": {
+    "message": "支払う"
+  },
+  "membershipUpgrade": {
+    "message": "会員アップグレード"
+  },
+  "userStatus": {
+    "message": "ユーザー身分:"
+  },
+  "memberUser": {
+    "message": "会員ユーザー"
+  },
+  "regularUser": {
+    "message": "一般ユーザー"
+  },
+  "welcome": {
+    "message": "歓迎:"
+  },
+  "login": {
+    "message": "ログイン"
+  },
+  "logout": {
+    "message": "ログアウト"
+  },
+  "save_settings": {
+    "message": "設定を保存"
+  },
+  "name": {
+    "message": "Youtube Dubbing"
+  },
+  "description": {
+    "message": "プラグインをクリックすると、YouTube動画を自動翻訳し、設定した言語で音声を再生します。"
+  },
+  "iOSRestriction": {
+    "message": "iOSシステムの制限のため、配音の再生を開始するには確認をクリックする必要があります"
+  },
+  "speedAdjustmentMode": {
+    "message": "映音倍速:"
+  },
+  "videoAudioAdjustment": {
+    "message": "オーディオビデオ調整"
+  },
+  "audioSingleAdjustment": {
+    "message": "単方向オーディオ調整"
+  },
+  "loginAndUsePlugin": {
+    "message": "まずプラグインのアイコンをクリックしてログインし、その後プラグインを使用して音声再生を行ってください。"
+  },
+  "firefoxRestrictions": {
+    "message": "Firefoxブラウザの制限のため、最初に手動でビデオ再生を開始し、その後プラグインボタンをクリックして音声再生を行う必要があります。"
+  },
+  "youtubeSubtitleError": {
+    "message": "字幕の取得に失敗しました。再度リフレッシュして試すか、以下のメールアドレスに問題を送信してください：605405375@qq.com"
+  },
+  "videoStatusNotification": {
+    "message": "現在の動画がプライベートに設定されているため、プラグインによる字幕の自動最適化ができません。プラグインが最適化を行うためには、動画のプライバシー設定を「非公開」に変更してください。動画を「非公開」に変更した後、プラグインで再度再生すると、字幕の最適化が行われます。"
+  },
+  "translateService": {
+    "message": "翻訳:"
+  },
+  "rechargeLimit": {
+    "message": "残高+会員"
+  },
+  "accountBalance": {
+    "message": "アカウント残高:"
+  },
+  "playButtonColor": {
+    "message": "再生ボタンが黄色または緑色で表示されている場合にのみ、OpenAIを使用した翻訳が有効になります。"
+  },
+  "insufficientBalance": {
+    "message": "残高が不足しているため、Google翻訳にダウングレードされました。AI翻訳を使用するには、クレジットを再チャージしてください。"
+  },
+  "membershipRequired": {
+    "message": "OpenAI翻訳を使用する前に、会員にアップグレードしてください。"
+  },
+  "serviceAbnormal": {
+    "message": "サービスに異常があり、Google翻訳にダウングレードされました。カスタマーサービスに連絡して問題を解決してください。"
+  },
+  "openAICallFailed": {
+    "message": "OpenAIの呼び出しに失敗しました。カスタマーサービスに連絡して問題を解決してください。Google翻訳にダウングレードされました。"
+  },
+  "voicesType": {
+    "message": "音声タイプ:"
+  },
+  "insufficientBalanceWithAzureTTS": {
+    "message": "残高が不足しているため、AzureTTSを使用できません。アカウントにチャージするか、無料のTTSサービスに切り替えてください。"
+  },
+  "membershipRequiredWithAzureTTS": {
+    "message": "AzureTTSを使用する前に、有料会員にアップグレードしてください。"
+  },
+  "serviceAbnormalWithAzureTTS": {
+    "message": "サービスに異常があり、AzureTTSを使用できません。カスタマーサービスにお問い合わせください。"
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "残高が不足しています。AI翻訳とAzure TTSを使用する前に、残高をチャージしてください。チャージしたくない場合は、Google翻訳と無料の音声タイプに切り替えることができます。"
+  },
+  "balanceRunningLow": {
+    "message": "残高が少なくなっています。視聴体験が悪化しないように、事前にチャージすることをお勧めします。"
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "AI翻訳とAzure TTSを使用する前に、残高とメンバーシップをチャージしてください。チャージしたくない場合は、Google翻訳と無料の音声タイプに切り替えることができます。"
+  },
+  "insufficientMembership": {
+    "message": "AI翻訳とAzure TTSを使用する前に、メンバーシップをチャージしてください。チャージしたくない場合は、Google翻訳と無料の音声タイプに切り替えることができます。"
+  },
+  "switchModelWarning": {
+    "message": "動画を再生中に、音声または翻訳モデルを切り替えると、すでにロードされたリソースが無駄になるため、追加料金が発生します。次の動画で切り替えることをお勧めします。それでも続行する場合は、続行して保存をクリックしてください。"
+  },
+  "confirmButton": {
+    "message": "続行して保存"
+  },
+  "cancelButton": {
+    "message": "キャンセル"
+  },
+  "tooExpensive": {
+    "message": "高すぎる"
+  },
+  "free": {
+    "message": "無料"
+  },
+  "videoVolumeControlModel": {
+    "message": "背景音"
+  },
+  "backgroundAudioTooltip": {
+    "message": "注意：この機能は完璧ではありません。主に会話のない部分の音楽を保持します。問題が発生した場合は、機能をオフにすることができます。"
+  },
+  "showSubtitle": {
+    "message": "字幕を表示"
+  },
+  "iosOpenOriginVolume": {
+    "message": "オリジナル音声をオンにする"
+  },
+  "durationLimitWarning": {
+    "message": "10時間超の動画は翻訳できません。より短い動画をお選びください。"
+  },
+  "textToSpeech": {
+    "message": "テキスト読み上げ:"
+  },
+  "modifyShortcut": {
+    "message": "ホットキー"
+  },
+  "confirmEnableTextToSpeech": {
+    "message": "テキスト読み上げを有効にしてもよろしいですか"
+  },
+  "audioContextNotInitialized": {
+    "message": "オーディオコンテキストが初期化されていません"
+  },
+  "audioNotLoaded": {
+    "message": "音声が読み込まれていません"
+  },
+  "voiceSynthesisLengthError": {
+    "message": "音声合成の文字数が1000を超えています。短い文章を手動で選択して音声合成してください。"
+  },
+  "loading": {
+    "message": "読み込み中"
+  },
+  "refreshNotification": {
+    "message": "この機能を有効にするにはページの再読み込みが必要です"
+  },
+  "addSpeaker": {
+    "message": "追加"
+  },
+  "deleteSpeaker": {
+    "message": "削除"
+  },
+  "speakerLeft": {
+    "message": "第"
+  },
+  "speakerRight": {
+    "message": "の話者"
+  },
+  "freeForVip": {
+    "message": "会員無料"
+  },
+  "subtitleSize": {
+    "message": "字幕サイズ"
+  },
+  "waitForSubtitleOptimization": {
+    "message": "利用可能な字幕がありません。このビデオの字幕をプラグインが最適化するまでお待ちください。"
+  },
+  "memberOnlySubtitlesMessage": {
+    "message": "このビデオは、最適化された字幕にアクセスするために会員登録が必要です。続行するには登録してください。"
+  },
+  "videoTooLongNoSubtitles": {
+    "message": "このビデオには字幕がなく、3時間の制限を超えています。字幕のない長さのビデオでは翻訳と吹き替えはサポートされていません。より短いビデオか字幕のあるビデオを選んでください。"
+  },
+  "vipRequiredTitle": {
+    "message": "メンバーシップが必要です"
+  },
+  "vipRequiredText": {
+    "message": "この機能を使用するにはメンバーになる必要があります"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "メンバーシップと残高が必要です"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "この機能を使用するにはメンバーになり、十分な残高が必要です"
+  },
+  "balanceRequiredTitle": {
+    "message": "残高が必要です"
+  },
+  "balanceRequiredText": {
+    "message": "アカウント残高が不足しています。この機能を使用するにはチャージしてください"
+  },
+  "lowBalanceTitle": {
+    "message": "残高不足アラート"
+  },
+  "lowBalanceText": {
+    "message": "アカウント残高が1ドル未満です。サービスの中断を避けるため、早めにチャージすることをお勧めします"
+  },
+  "freeOptionTipText": {
+    "message": "チャージしたくない場合は、無料オプションを選択できます。"
+  },
+  "translateEngineTipText": {
+    "message": "翻訳サービスをGoogleに変更する"
+  },
+  "voiceTypeTipText": {
+    "message": "音声タイプを無料バージョンに変更する"
+  },
+  "vipFreeOptionTipText": {
+    "message": "メンバーとして、以下の翻訳サービスを無料で利用できます"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "翻訳サービスをgemini、deepseek、gpt-3.5-turbo、claude-3-haikuなどのメンバー無料サービスに変更する"
+  }
+}

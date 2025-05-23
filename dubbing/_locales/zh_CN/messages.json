@@ -1,0 +1,302 @@
+{
+  "noSubtitlesMessage": {
+    "message": "当前视频无字幕"
+  },
+  "liveVideoNotSupported": {
+    "message": "直播视频暂不支持配音"
+  },
+  "videoIdFetchFailure": {
+    "message": "获取视频id失败"
+  },
+  "postLoginTranslationSettings": {
+    "message": "登录成功，点击插件ICON，可以选择翻译语言和声音列表。"
+  },
+  "translationRequestFailure": {
+    "message": "字幕翻译失败,请稍后重试。"
+  },
+  "subtitleNotInitialized": {
+    "message": "字幕尚未初始化。"
+  },
+  "musicVideoTranslationUnavailable": {
+    "message": "当前视频为纯音乐视频，无法进行翻译和配音"
+  },
+  "notification": {
+    "message": "YouTube Dubbing会员提醒"
+  },
+  "subtitleQualityImprovement": {
+    "message": "正在为您提升字幕质量，优化完成后将邮件通知。收到后，请刷新视频享受更优观看体验"
+  },
+  "membershipPromotion": {
+    "message": "升级为会员，立即解锁卓越观看体验！"
+  },
+  "videoEnhancement": {
+    "message": "本视频特别包含由插件独家优化的字幕，以增强您的观看体验。只需要点击插件图标并升级为会员，即可获得更好的观看体验！"
+  },
+  "videoOptimization": {
+    "message": "当前视频正在进行优化工作。优化完成后，如果您希望观看，只需点击插件图标并升级为会员，即可享受全新的观看体验。"
+  },
+  "membershipUpgradeLink": {
+    "message": "<a href='https://yd.transduck.com/admin/settings/plans' target='_blank' style='color:#FFFFFF'>点击升级会员</a>"
+  },
+  "source_languages": {
+    "message": "源语言:"
+  },
+  "target_languages": {
+    "message": "目标语言:"
+  },
+  "sex": {
+    "message": "性别:"
+  },
+  "voices": {
+    "message": "声音:"
+  },
+  "originalVolume": {
+    "message": "原声音量:"
+  },
+  "targetVolume": {
+    "message": "目标音量:"
+  },
+  "pageSwitchPause": {
+    "message": "页面切换暂停视频:"
+  },
+  "man": {
+    "message": "男"
+  },
+  "woman": {
+    "message": "女"
+  },
+  "inviteForPoints": {
+    "message": "邀请赚积分"
+  },
+  "pointsForMembership": {
+    "message": "积分可用于充值会员抵扣金额, 点击左侧蓝色链接进入详情页了解详情。"
+  },
+  "expirationDate": {
+    "message": "到期时间:"
+  },
+  "pay": {
+    "message": "支付"
+  },
+  "membershipUpgrade": {
+    "message": "升级会员"
+  },
+  "userStatus": {
+    "message": "用户身份:"
+  },
+  "memberUser": {
+    "message": "会员用户"
+  },
+  "regularUser": {
+    "message": "普通用户"
+  },
+  "welcome": {
+    "message": "欢迎:"
+  },
+  "login": {
+    "message": "登录"
+  },
+  "logout": {
+    "message": "退出登录"
+  },
+  "save_settings": {
+    "message": "保存设置"
+  },
+  "name": {
+    "message": "YouTube中文配音"
+  },
+  "description": {
+    "message": "在youtube看英文视频的时候，点击插件图标,会用自动进行翻译，然后用中文进行朗读。"
+  },
+  "iOSRestriction": {
+    "message": "由于IOS系统限制，需要您点击确认才能开始进行配音播放"
+  },
+  "speedAdjustmentMode": {
+    "message": "双向倍速:"
+  },
+  "videoAudioAdjustment": {
+    "message": "音视频双向调整"
+  },
+  "audioSingleAdjustment": {
+    "message": "音频单向调整"
+  },
+  "loginAndUsePlugin": {
+    "message": "请先点击插件icon进行登录，然后再使用插件进行配音播放。"
+  },
+  "firefoxRestrictions": {
+    "message": "由于火狐浏览器限制问题，需要您先人工开启视频播放，在点击插件按钮进行配音播放。"
+  },
+  "youtubeSubtitleError": {
+    "message": "获取字幕失败，请刷新重试或去官网底部加客服微信解决"
+  },
+  "videoStatusNotification": {
+    "message": "您当前视频的状态是私享，插件无法为您自动优化视频字幕质量，如需插件进行优化，请将视频修改为非公开，然后再次使用插件进行播放会触发插件进行字幕的优化"
+  },
+  "translateService": {
+    "message": "翻译服务:"
+  },
+  "rechargeLimit": {
+    "message": "额度+会员"
+  },
+  "accountBalance": {
+    "message": "账户余额:"
+  },
+  "playButtonColor": {
+    "message": "只有播放按钮显示黄色或绿色时，才能启用OpenAI进行翻译。"
+  },
+  "insufficientBalance": {
+    "message": "您的余额不足,已降级为Google翻译,如需使用AI翻译,请先充值额度。"
+  },
+  "membershipRequired": {
+    "message": "在使用OpenAI翻译之前,请先充值为会员。"
+  },
+  "serviceAbnormal": {
+    "message": "服务异常,已降级为Google翻译,请联系客服解决。"
+  },
+  "openAICallFailed": {
+    "message": "调用Open AI 失败,请联系客服解决,已降级为Google翻译。"
+  },
+  "voicesType": {
+    "message": "声音类型:"
+  },
+  "insufficientBalanceWithAzureTTS": {
+    "message": "您的余额不足,无法使用AzureTTS,请先充值额度或切换为免费的TTS。"
+  },
+  "membershipRequiredWithAzureTTS": {
+    "message": "在使用AzureTTS之前,请先充值为会员。"
+  },
+  "serviceAbnormalWithAzureTTS": {
+    "message": "服务异常,无法使用AzureTTS,请联系客服解决。"
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "您的额度不足，请先充值额度，在使用AI翻译和Azure TTS。如果不想充值，也可以切换回谷歌翻译和免费的声音类型。"
+  },
+  "balanceRunningLow": {
+    "message": "您的额度即将用完, 为避免在观看过程中有不好的体验，建议提前进行充值。"
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "请先充值额度与会员，在使用AI翻译和Azure TTS。如果不想充值，也可以切换回谷歌翻译和免费的声音类型。"
+  },
+  "insufficientMembership": {
+    "message": "请先充值会员，在使用AI翻译和Azure TTS。如果不想充值，也可以切换回谷歌翻译和免费的声音类型。"
+  },
+  "switchModelWarning": {
+    "message": "您正在播放视频,切换语音或翻译模型会导致额外扣费,因为已加载的资源将被浪费,建议下1个视频在切换。如仍要继续,请点击继续保存。"
+  },
+  "confirmButton": {
+    "message": "继续保存"
+  },
+  "cancelButton": {
+    "message": "取消"
+  },
+  "tooExpensive": {
+    "message": "贵"
+  },
+  "free": {
+    "message": "免费"
+  },
+  "videoVolumeControlModel": {
+    "message": "背景音:"
+  },
+  "backgroundAudioTooltip": {
+    "message": "注意：此功能并不完美。主要保留无对话片段的音乐。如遇问题，可以关闭该功能。"
+  },
+  "showSubtitle": {
+    "message": "显示字幕:"
+  },
+  "iosOpenOriginVolume": {
+    "message": "开启原声:"
+  },
+  "durationLimitWarning": {
+    "message": "很抱歉，当前视频时长超过10小时，无法提供翻译服务。建议您选择较短的视频以便我们为您翻译。"
+  },
+  "textToSpeech": {
+    "message": "文本配音:"
+  },
+  "modifyShortcut": {
+    "message": "修改快捷键"
+  },
+  "confirmEnableTextToSpeech": {
+    "message": "您是否确认开启文本配音"
+  },
+  "audioContextNotInitialized": {
+    "message": "音频上下文未初始化"
+  },
+  "audioNotLoaded": {
+    "message": "音频未加载"
+  },
+  "voiceSynthesisLengthError": {
+    "message": "配音字符超过1000,您可以手动选择较短的字符进行配音"
+  },
+  "loading": {
+    "message": "加载中"
+  },
+  "refreshNotification": {
+    "message": "该功能生效需要刷新页面"
+  },
+  "addSpeaker": {
+    "message": "新增"
+  },
+  "deleteSpeaker": {
+    "message": "删除"
+  },
+  "speakerLeft": {
+    "message": "第"
+  },
+  "speakerRight": {
+    "message": "个说话人"
+  },
+  "freeForVip": {
+    "message": "会员免费"
+  },
+  "subtitleSize": {
+    "message": "字幕大小"
+  },
+  "waitForSubtitleOptimization": {
+    "message": "没有可用的字幕。请等待插件为此视频优化字幕。"
+  },
+  "memberOnlySubtitlesMessage": {
+    "message": "此视频需要会员订阅才能访问优化后的字幕。请订阅以继续观看。"
+  },
+  "videoTooLongNoSubtitles": {
+    "message": "该视频无字幕，且视频时长超过3小时，暂不支持翻译与配音。请选择较短的视频或有字幕的视频。"
+  },
+  "vipRequiredTitle": {
+    "message": "需要会员"
+  },
+  "vipRequiredText": {
+    "message": "您需要成为会员才能使用此功能"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "需要会员和额度"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "您需要成为会员并充值额度才能使用此功能"
+  },
+  "balanceRequiredTitle": {
+    "message": "需要额度"
+  },
+  "balanceRequiredText": {
+    "message": "您的账户余额不足，请充值后再使用此功能"
+  },
+  "lowBalanceTitle": {
+    "message": "余额不足提醒"
+  },
+  "lowBalanceText": {
+    "message": "您的账户余额低于1美元，建议尽快充值以确保服务正常使用"
+  },
+  "freeOptionTipText": {
+    "message": "如果不想充值，您可以选择免费选项，"
+  },
+  "translateEngineTipText": {
+    "message": "将翻译服务改为 Google"
+  },
+  "voiceTypeTipText": {
+    "message": "将语音类型改为免费版本"
+  },
+  "vipFreeOptionTipText": {
+    "message": "作为会员，您可以免费使用以下翻译服务"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "将翻译服务改为 gemini、deepseek、gpt-3.5-turbo 或 claude-3-haiku 等会员免费服务"
+  }
+}

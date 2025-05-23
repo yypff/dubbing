@@ -1,0 +1,302 @@
+{
+  "noSubtitlesMessage": {
+    "message": "The current video has no subtitles"
+  },
+  "liveVideoNotSupported": {
+    "message": "Live videos are not currently supported for dubbing"
+  },
+  "videoIdFetchFailure": {
+    "message": "Failed to retrieve video ID"
+  },
+  "postLoginTranslationSettings": {
+    "message": "Login successful. Click the plugin ICON to select the translation language and voice list."
+  },
+  "translationRequestFailure": {
+    "message": "Subtitle translation failed, please try again later."
+  },
+  "subtitleNotInitialized": {
+    "message": "Subtitles have not been initialized yet."
+  },
+  "musicVideoTranslationUnavailable": {
+    "message": "The current video is a pure music video and cannot be translated or dubbed"
+  },
+  "notification": {
+    "message": "YouTube Dubbing Membership Reminder"
+  },
+  "subtitleQualityImprovement": {
+    "message": "We are improving the quality of subtitles for you. Once the optimization is complete, you will be notified by email. Upon receiving it, please refresh the video to enjoy a better viewing experience"
+  },
+  "membershipPromotion": {
+    "message": "Upgrade to a member now to unlock an exceptional viewing experience!"
+  },
+  "videoEnhancement": {
+    "message": "This video specifically includes subtitles exclusively optimized by the plugin to enhance your viewing experience. Simply click on the plugin icon and upgrade to a member to get a better viewing experience!"
+  },
+  "videoOptimization": {
+    "message": "The current video is undergoing optimization. Once the optimization is complete, if you wish to watch, simply click on the plugin icon and upgrade to a member to enjoy a new viewing experience."
+  },
+  "membershipUpgradeLink": {
+    "message": "<a href='https://yd.transduck.com/admin/settings/plans' target='_blank' style='color:#FFFFFF'>Click to Upgrade Membership</a>"
+  },
+  "source_languages": {
+    "message": "Source Language:"
+  },
+  "target_languages": {
+    "message": "Target Language:"
+  },
+  "sex": {
+    "message": "Gender:"
+  },
+  "voices": {
+    "message": "Voice:"
+  },
+  "originalVolume": {
+    "message": "Orig.Vol:"
+  },
+  "targetVolume": {
+    "message": "Dub.Vol:"
+  },
+  "pageSwitchPause": {
+    "message": "Pause on tab switch:"
+  },
+  "man": {
+    "message": "Male"
+  },
+  "woman": {
+    "message": "Female"
+  },
+  "inviteForPoints": {
+    "message": "Invite to Earn Points"
+  },
+  "pointsForMembership": {
+    "message": "Use points for membership and savings."
+  },
+  "expirationDate": {
+    "message": "Expiration Date:"
+  },
+  "pay": {
+    "message": "pay"
+  },
+  "membershipUpgrade": {
+    "message": "Upgrade Membership"
+  },
+  "userStatus": {
+    "message": "User Identity:"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "regularUser": {
+    "message": "Basic"
+  },
+  "welcome": {
+    "message": "Welcome:"
+  },
+  "login": {
+    "message": "Login"
+  },
+  "logout": {
+    "message": "Log Out"
+  },
+  "save_settings": {
+    "message": "Save Settings"
+  },
+  "name": {
+    "message": "Youtube Dubbing"
+  },
+  "description": {
+    "message": "Click the plugin to auto-translate YouTube videos and play the audio in your preferred language."
+  },
+  "iOSRestriction": {
+    "message": "Due to iOS system restrictions, you need to click confirm to start the voiceover playback"
+  },
+  "speedAdjustmentMode": {
+    "message": "Speed:"
+  },
+  "videoAudioAdjustment": {
+    "message": "bi-adjust"
+  },
+  "audioSingleAdjustment": {
+    "message": "uni-adjust"
+  },
+  "loginAndUsePlugin": {
+    "message": "Please click on the plugin icon to log in first, then use the plugin for voiceover playback."
+  },
+  "firefoxRestrictions": {
+    "message": "Due to restrictions on the Firefox browser, you need to manually start video playback first, then click the plugin button for voiceover playback."
+  },
+  "youtubeSubtitleError": {
+    "message": "Failed to fetch subtitles, please refresh and try again, or send the problem to the email: 605405375@qq.com"
+  },
+  "videoStatusNotification": {
+    "message": "Your current video is set to private, which prevents the plugin from automatically optimizing the quality of subtitles. For the plugin to perform optimization, please change the video's privacy setting to unlisted. After making the video unlisted, using the plugin to play it again will trigger the optimization of subtitles."
+  },
+  "translateService": {
+    "message": "Translate:"
+  },
+  "rechargeLimit": {
+    "message": "Credit+Member"
+  },
+  "accountBalance": {
+    "message": "Account Balance:"
+  },
+  "playButtonColor": {
+    "message": "OpenAI translation can only be enabled when the play button is displayed in yellow or green."
+  },
+  "insufficientBalance": {
+    "message": "Due to insufficient balance, the service has been downgraded to Google Translate. To use AI translation, please recharge your credit."
+  },
+  "membershipRequired": {
+    "message": "Please upgrade to a membership before using OpenAI translation."
+  },
+  "serviceAbnormal": {
+    "message": "Due to service abnormality, the service has been downgraded to Google Translate. Please contact customer service to resolve the issue."
+  },
+  "openAICallFailed": {
+    "message": "OpenAI call failed. Please contact customer service to resolve the issue. The service has been downgraded to Google Translate."
+  },
+  "voicesType": {
+    "message": "Voice Type:"
+  },
+  "insufficientBalanceWithAzureTTS": {
+    "message": "Your balance is insufficient to use AzureTTS. Please recharge your account or switch to the free TTS service."
+  },
+  "membershipRequiredWithAzureTTS": {
+    "message": "Please upgrade to a paid membership before using AzureTTS."
+  },
+  "serviceAbnormalWithAzureTTS": {
+    "message": "Please upgrade to a paid membership before using AzureTTS."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Your balance is insufficient. Please recharge your balance before using AI translation and Azure TTS. If you don't want to recharge, you can switch back to Google Translate and free voice types."
+  },
+  "balanceRunningLow": {
+    "message": "Your balance is running low. To avoid a poor viewing experience, it is recommended to recharge in advance."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Please recharge your balance and membership before using AI translation and Azure TTS. If you don't want to recharge, you can switch back to Google Translate and free voice types."
+  },
+  "insufficientMembership": {
+    "message": "Please recharge your membership before using AI translation and Azure TTS. If you don't want to recharge, you can switch back to Google Translate and free voice types."
+  },
+  "switchModelWarning": {
+    "message": "Switching the voice or translation model during video playback will incur additional charges due to wasted resources. We recommend switching in the next video. To proceed anyway, click Continue and Save."
+  },
+  "confirmButton": {
+    "message": "Continue and Save"
+  },
+  "cancelButton": {
+    "message": "Cancel"
+  },
+  "tooExpensive": {
+    "message": "Too expensive"
+  },
+  "free": {
+    "message": "free"
+  },
+  "videoVolumeControlModel": {
+    "message": "bgm:"
+  },
+  "backgroundAudioTooltip": {
+    "message": "Note: This feature is not perfect. It mainly preserves music during segments without dialogue. If issues occur, you can turn off this feature."
+  },
+  "showSubtitle": {
+    "message": "subtitles:"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Turn on original audio"
+  },
+  "durationLimitWarning": {
+    "message": "Sorry, videos over 10 hours can't be translated. Please choose a shorter video."
+  },
+  "textToSpeech": {
+    "message": "Text to Speech:"
+  },
+  "modifyShortcut": {
+    "message": "Modify Shortcut"
+  },
+  "confirmEnableTextToSpeech": {
+    "message": "Are you sure you want to enable text to speech"
+  },
+  "audioContextNotInitialized": {
+    "message": "Audio context not initialized"
+  },
+  "audioNotLoaded": {
+    "message": "Audio not loaded"
+  },
+  "voiceSynthesisLengthError": {
+    "message": "The text for voice synthesis exceeds 1000 characters. Please manually select a shorter text for voice synthesis."
+  },
+  "loading": {
+    "message": "loading"
+  },
+  "refreshNotification": {
+    "message": "This feature requires a page refresh to take effect"
+  },
+  "addSpeaker": {
+    "message": "Add"
+  },
+  "deleteSpeaker": {
+    "message": "Delete"
+  },
+  "speakerLeft": {
+    "message": "Speaker "
+  },
+  "speakerRight": {
+    "message": ""
+  },
+  "freeForVip": {
+    "message": "VIP Free"
+  },
+  "subtitleSize": {
+    "message": "SubSize"
+  },
+  "waitForSubtitleOptimization": {
+    "message": "No subtitles available. Please wait for the plugin to optimize subtitles for this video."
+  },
+  "memberOnlySubtitlesMessage": {
+    "message": "This video requires a membership subscription to access optimized subtitles. Please subscribe to continue."
+  },
+  "videoTooLongNoSubtitles": {
+    "message": "This video has no subtitles and exceeds the 3-hour time limit. Translation and dubbing are not supported for videos of this length without subtitles. Please choose a shorter video or one with subtitles."
+  },
+  "vipRequiredTitle": {
+    "message": "Membership Required"
+  },
+  "vipRequiredText": {
+    "message": "You need to be a member to use this feature"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Membership and Balance Required"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "You need to be a member and have sufficient balance to use this feature"
+  },
+  "balanceRequiredTitle": {
+    "message": "Balance Required"
+  },
+  "balanceRequiredText": {
+    "message": "Your account balance is insufficient. Please recharge to use this feature"
+  },
+  "lowBalanceTitle": {
+    "message": "Low Balance Alert"
+  },
+  "lowBalanceText": {
+    "message": "Your account balance is below $1. We recommend recharging soon to ensure uninterrupted service"
+  },
+  "freeOptionTipText": {
+    "message": "If you don't want to recharge, you can choose the free option, "
+  },
+  "translateEngineTipText": {
+    "message": "change the translation service to Google"
+  },
+  "voiceTypeTipText": {
+    "message": "change the voice type to the free version"
+  },
+  "vipFreeOptionTipText": {
+    "message": "As a member, you can use the following translation services for free"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "change the translation service to member-free services like gemini, deepseek, gpt-3.5-turbo, or claude-3-haiku"
+  }
+}
